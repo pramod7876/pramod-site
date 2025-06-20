@@ -1,0 +1,10 @@
+<html>
+<head><title>MY FIREST FILE</title></head>
+<body>
+<p align="center ;color=red"> super script</p><br>
+(a+b)<sup>2</sup>=a<sup>2</sup>
+<hr color="red">
+<p align="center ;color= yellow">sub script</p><br>
+H<sub>2</sub>O
+<hr color="green">
+

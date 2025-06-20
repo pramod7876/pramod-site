@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction CSS</title>
+   
+</head>
+<body>
+    <h1 style="color: blue;;background-color: red;">Introduction to css </h1>
+    <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. vel amet facilis eius magni desert </p>
+
+    <h2 > Introduction To Syntax</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. vel amet facilis eius magni desert</p>
+
+    <h2>Introduction To Element</h3>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. vel amet facilis eius magni desert  </p>
+
+    <h2> introduction To We4b Technology</h2>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis modi aut minima velit explicabo corporis doloremque, maiores, quia quisquam quaerat ab vitae. Saepe quos obcaecati amet? Accusantium dignissimos nihil officiis!   </p>
+</body>
+</html>
